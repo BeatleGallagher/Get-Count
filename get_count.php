@@ -23,7 +23,7 @@
 				return $vowelsCount = $vowels;
 			}
         }
-        get_Count("javascript php 3 and c sharp");
+        get_Count("javascript php and c sharp");
     ?>
 
 <script>
@@ -39,7 +39,7 @@
 			return vowelsCount = vowels.length;
 		}
 	}
-	getCount("javascript php 3 and c sharp");
+	getCount("javascript php and c sharp");
 </script>
 
 <!-- SOLUTION IN C#
